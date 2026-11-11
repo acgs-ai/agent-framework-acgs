@@ -69,7 +69,7 @@ typing = [
 
 [package.metadata]
 requires-dist = [
-    { name = "acgs-lite", specifier = ">=3.0.1,<4" },
+    { name = "acgs-lite", specifier = ">=3.0.1,<5" },
     { name = "agent-framework-core", specifier = ">=1.20.0,<2" },
     { name = "mcp", marker = "extra == 'mcp'", specifier = ">=1.24.0,<3" },
     { name = "tenacity", marker = "extra == 'mcp'", specifier = ">=9.1.4,<10" },
